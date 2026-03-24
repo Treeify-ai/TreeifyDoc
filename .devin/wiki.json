@@ -1,0 +1,47 @@
+{
+  "repo_notes": [
+    {
+      "content": ""
+    }
+  ],
+  "pages": [
+    {
+      "title": "Overview",
+      "purpose": "High-level introduction to the TreeifyDoc repository — what it is, its purpose as the official documentation home for the Treeify project, its current state, and how to navigate the wiki. Links to child pages for project identity and repository structure.",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Repository Structure & Getting Started",
+      "purpose": "Explains the current layout of the TreeifyDoc repository (root README.md, LICENSE), how to clone and contribute to the documentation, and the expected future structure as content grows (e.g., sub-documents, build tooling). Serves as an onboarding guide for new contributors.",
+      "parent": "Overview",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Licensing & Legal",
+      "purpose": "Overview of the legal framework governing TreeifyDoc. Summarises the Apache License 2.0 terms and links to child pages covering usage rights and contributor obligations.",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Apache License 2.0 — Usage Rights",
+      "purpose": "Details the permissions granted to users and distributors under the Apache 2.0 license: copyright grant, patent grant, redistribution conditions, and the disclaimer of warranty and limitation of liability. References specific sections of the LICENSE file.",
+      "parent": "Licensing & Legal",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    }
+  ]
+}
