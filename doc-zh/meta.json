@@ -1,0 +1,15 @@
+{
+	"pages": [
+		"1-treeify-vision",
+		"2-what-is-treeify",
+		"3-quick-start",
+		"4-concept",
+		"5-tips",
+		"6-why-not-chat",
+		"7-partnership",
+		"8-faq",
+		"9-wrap-up"
+	],
+	"defaultOpen": true,
+	"root": true
+}
