@@ -46,5 +46,3 @@ Treeify is currently in **beta**, and we prioritize additional free Credits for 
 - Your real usage feedback directly influences our product priorities and roadmap.
 
 **If you would like to join the beta and receive free Credit support, feel free to contact us on WeChat: TreeifyAI.**
-
-![Contact us on WeChat](../images/wechat-zh.png)

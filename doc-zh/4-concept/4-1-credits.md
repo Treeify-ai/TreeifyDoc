@@ -43,4 +43,4 @@ Treeify 目前处于 **内测** 阶段，我们会将免费提供更多 Credits 
 
 **如果你希望加入内测并获得免费 Credits 支持，欢迎联系我们，微信【TreeifyAI】。**
 
-![微信联系](../getting-started-image/wechat.png)
+![微信联系](../images/wechat.png)
